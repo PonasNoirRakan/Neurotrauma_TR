@@ -18,6 +18,6 @@ rermi - French localization
 JellyQoo - Korean localization
 MEI - Portuguese localization
 Oskar - Spanish localization
-mefy - Turkish localization
+Ponas Noir Rakan & mefy - Turkish localization
 profole - German localization
 Liatoast - Further improvements to German localization
